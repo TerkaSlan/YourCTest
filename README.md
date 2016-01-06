@@ -33,6 +33,7 @@ Compile as you would your regular C code:
   `gcc main.c -o test`
 
 Run `./test` and see what fails and what passes:
+
 ![test_result](http://i64.tinypic.com/25p1jc6.png)
 
 That's all, feel free to play with it and create your personalised, even cooler one!
